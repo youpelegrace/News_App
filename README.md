@@ -6,7 +6,7 @@ It displays in dark and light theme mode.
 
 It was developed using flutter and runs in both android and IOS devices.
 
-Riverpod statemanagement was used to manage the application state and a public news API was consumed for full functionality.
+Provider statemanagement was used to manage the application state and a public news API was consumed for full functionality.
 
 
 
